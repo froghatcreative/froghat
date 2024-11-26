@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --default: #eb6337;
+    --tint: #ec4815;
+    --primary: #dc4419;
+  }
